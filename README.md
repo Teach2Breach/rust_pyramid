@@ -7,6 +7,6 @@ The concept is based on https://github.com/naksyn/Pyramid . This is a really sim
 
 Example:
 
-![2023-02-22_08-10](https://user-images.githubusercontent.com/105792760/220646879-f27d789b-f6fd-4b87-9875-02cfc60c0a33.png)
+[updating...]
 
 You can either download, modify, and rehost my reverse shell script, or use your own. Really you can run any python script that doesn't require additional dependencies. 
