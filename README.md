@@ -1,4 +1,4 @@
-# pyre
+# rust_pyramid
 A simple program in Rust that leverages the python embeddable package for windows to evade EDR.
 
 Basically the program will first download the (signed) python embeddable package for windows, then download and run a specified py file. In this case, I harcoded the python script to be run, to point to one of my other repos here: https://raw.githubusercontent.com/Teach2Breach/Python-Windows-Reverse-Shell/master/reverse_shell.py . It's just a really simple python reverse shell script.
